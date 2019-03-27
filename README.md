@@ -1,5 +1,3 @@
-# sc_update
+# sfc_update
 
 SPEEDFLOW COMPANION
-
-RELEASE NOTES
